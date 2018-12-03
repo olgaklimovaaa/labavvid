@@ -5,6 +5,7 @@
 #include <conio.h> 
 #include <string.h> 
 #include <windows.h> 
+#include <locale.h>
 
 char* InputWord()//функция для ввода строки 
 {
